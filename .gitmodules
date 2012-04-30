@@ -1,0 +1,9 @@
+[submodule "rhus-web"]
+	path = rhus-web
+	url = git@github.com:deepwinter/rhus-web.git
+[submodule "rhus-iphone"]
+	path = rhus-iphone
+	url = git@github.com:deepwinter/rhus-iphone.git
+[submodule "rhus-android"]
+	path = rhus-android
+	url = git@github.com:deepwinter/rhus-android.git
